@@ -3,7 +3,7 @@ Contributors: automattic, mikejolley, jameskoster, claudiosanches, claudiulodro,
 Tags: ecommerce, e-commerce, store, sales, sell, shop, cart, checkout, downloadable, downloads, paypal, storefront, woo commerce
 Requires at least: 4.7
 Tested up to: 4.9
-Stable tag: 3.3.5
+Stable tag: 3.3.5.mxm.1
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -160,6 +160,9 @@ Yes you can! Join in on our [GitHub repository](http://github.com/woocommerce/wo
 6. A product archive (grid).
 
 == Changelog ==
+
+= 3.3.5.mxm.1 - 2018-07-05 =
+* Feature - Allow WC REST authentication to work for all WP REST API
 
 = 3.3.5 - 2018-04-10 =
 * Fix - Shop page notice should not appear when edting the "Hello World!" page.
