@@ -1,5 +1,9 @@
 == Changelog ==
 
+= 3.6.3.mxm.1 - 2019-05-21 =
+* Feature - Allow WC REST authentication to work for all WP REST API
+* Fix - customer email case change via REST API
+
 = 3.6.3 - 2019-05-16 =
 * Fix - State not required for Serbia. #23430
 * Fix - # symbol in product category name broke product export. #23454
