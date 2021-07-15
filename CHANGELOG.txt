@@ -1,5 +1,9 @@
 == Changelog ==
 
+
+= 3.6.3.mxm.2 - 2021-07-14 =
+* Fix - Patch critical security bug from Woocommerce 3.6.6
+
 = 3.6.3.mxm.1 - 2019-05-21 =
 * Feature - Allow WC REST authentication to work for all WP REST API
 * Fix - customer email case change via REST API
